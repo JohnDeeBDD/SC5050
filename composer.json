@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+        "lucatume/wp-browser": "^1.21"
+    },
+    "require": {
+        "codeception/mockery-module": "^0.2.2"
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
